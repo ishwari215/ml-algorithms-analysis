@@ -16,11 +16,11 @@ This repository contains a diverse set of machine learning projects exploring re
 
 ## 📅 Subfolders
 
-* [`clustering`](./clustering) – Obesity risk analysis using K-Means and Hierarchical Clustering
-* [`regression_small`](./regression_small) – Predicting garment productivity
-* [`regression_large`](./regression_large) – Predicting IT incident resolution times
-* [`classification`](./classification) – Income classification with various ML models
-* [`ilp`](./ilp) – Rule-based classification using Aleph ILP engine
+* Clustering – Obesity risk analysis using K-Means and Hierarchical Clustering
+* Regression_small – Predicting garment productivity
+* Regression_large – Predicting IT incident resolution times
+* Classification – Income classification with various ML models
+* ILP – Rule-based classification using Aleph ILP engine
 
 
 ## 🔍 Discussion of Results and Critical Assessment
